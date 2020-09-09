@@ -6,9 +6,7 @@ namespace Hypotenuse
     {
         static void Main(string[] args)
         {
-            double sideA;
-            double sideB; 
-            double hypo;
+            double sideA, sideB, hypo;
             Console.Write("Side A : ");
                 sideA = Convert.ToDouble(Console.ReadLine());
             Console.Write("Side B : ");
